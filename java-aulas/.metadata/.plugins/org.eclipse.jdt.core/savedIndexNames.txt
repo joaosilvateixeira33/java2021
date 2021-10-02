@@ -4,6 +4,9 @@ INDEX VERSION 1.131+C:\Users\joao marcos\Desktop\Cursos\Java\ws-java\java2021\ja
 18078248.index
 596166080.index
 382952283.index
+2293757688.index
+4289775214.index
+1863310335.index
 2767675682.index
 3129054330.index
 1301595159.index
@@ -34,5 +37,4 @@ INDEX VERSION 1.131+C:\Users\joao marcos\Desktop\Cursos\Java\ws-java\java2021\ja
 858110122.index
 1407332687.index
 2444019641.index
-2349351943.index
 982774913.index
